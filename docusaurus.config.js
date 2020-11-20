@@ -174,7 +174,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/deusfinance/deus-docs/edit/main/',
+          editUrl: 'https://github.com/deusfinance/deus-docs/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
