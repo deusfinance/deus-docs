@@ -132,7 +132,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Social',
           items: [
             {
               label: 'Website',
@@ -143,8 +143,24 @@ module.exports = {
               href: 'https://twitter.com/deusdao',
             },
             {
-              label: 'Telegram',
+              label: 'Telegram Community',
               href: 'https://t.me/deusfinance',
+            },
+            {
+              label: 'Telegram Announcements',
+              href: 'https://t.me/deusfinance_news',
+            },
+            {
+              label: 'Discord',
+              href: 'https://discord.gg/DxdM7TW',
+            },
+            {
+              label: 'Youtube',
+              href: 'https://www.youtube.com/channel/UCEVRMEr1Kt-n6ycQSEYBScQ',
+            },
+            {
+              label: 'Twitch',
+              href: 'https://www.twitch.tv/deus_finance',
             },
           ],
         },
