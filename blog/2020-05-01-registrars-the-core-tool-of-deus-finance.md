@@ -14,6 +14,6 @@ tags:
     - Stock Market
 ---
 
-https://medium.com/@deusfinance/dea-part-ii-release-of-dea-and-the-staking-reward-program-46b065322936
+https://medium.com/@deusfinance/registrars-the-core-tool-of-deus-finance-40194b9313a4
 
 Written by: **Lafayette**
