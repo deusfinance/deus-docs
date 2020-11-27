@@ -10,20 +10,27 @@ module.exports = {
     {
       type: 'category',
       label: 'Introduction',
-      items: ['about', 'faq', 'platform', 'contribute'],
+      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap', 'contribute'],
       collapsed: false
     },
     {
       type: 'category',
-      label: 'Native Tokens',
-      items: ['deus_token', 'dea_token'],
+      label: 'Interface',
+      items: ['swap', 'registrar', 'conductor', 'oracles', 'zap', 'troubleshooting'],
       collapsed: false,
     },
     {
       type: 'category',
-      label: 'DEUS Swap',
-      items: ['registrar', 'conductor'],
+      label: 'Tokenomics',
+      items: ['tokens_readme','deus_token', 'dea_token', 'treasury', 'reserve', 'stakeholders','risk_assessment'],
       collapsed: false,
     },
+    {
+      type: 'category',
+      label: 'DEUS DAO',
+      items: ['governance','dao'],
+      collapsed: false,
+    }
+
   ],
 }
