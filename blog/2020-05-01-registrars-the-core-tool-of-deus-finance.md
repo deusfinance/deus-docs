@@ -16,4 +16,4 @@ tags:
 
 https://medium.com/@deusfinance/registrars-the-core-tool-of-deus-finance-40194b9313a4
 
-Written by: **Lafayette**
+Written by: **DEUS DAO**
