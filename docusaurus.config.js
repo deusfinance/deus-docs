@@ -80,11 +80,6 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {
-          label: 'Blog',
-          to: '/blog',
-          position: 'left',
-        },
       ],
     },
 
@@ -98,80 +93,68 @@ module.exports = {
     footer: {
       links: [
         {
-          title: 'DEUS DAO',
+          title: 'Community',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Official Discord',
+              to: 'https://discord.gg/Ns6Zgbh2',
             },
             {
-              label: 'Maintainers',
-              to: '/dao',
-            },
-            {
-              label: 'Repositories',
-              to: '/dao',
+              label: 'Telegram Chat',
+              to: 'http://t.me/deusfinance',
             },
           ],
         },
         {
-          title: 'Resources',
+          title: 'Additional Resources',
           items: [
-            {
-              label: 'Documentation',
-              to: '/docs',
+	    {
+              label: 'Official Medium (largely outdated)',
+              href: 'https://medium.com/@deusfinance',
             },
-            {
-              label: 'Litepaper',
-              to: 'https://deus.finance/litepaper.pdf',
-            },
-            {
+	    {
+              label: 'Lafayette\'s Medium (recommended)',
+              href: 'https://lafayettetabor.medium.com/',
+            },            
+	    {
               label: 'Github',
               href: 'https://github.com/deusfinance',
             },
+	    {
+              label: 'Lafayette\'s Youtube Explainers',
+              href: 'https://www.youtube.com/channel/UCEVRMEr1Kt-n6ycQSEYBScQ',
+            },
+            {
+              label: 'Official Twitch',
+              href: 'https://www.twitch.tv/deus_finance',
+            },
           ],
         },
         {
-          title: 'Social',
+          title: 'Announcements',
           items: [
             {
-              label: 'Website',
-              href: 'https://deus.finance',
-            },
-            {
-              label: 'Twitter',
+              label: 'Twitter Announcements',
               href: 'https://twitter.com/deusdao',
-            },
-            {
-              label: 'Telegram Community',
-              href: 'https://t.me/deusfinance',
             },
             {
               label: 'Telegram Announcements',
               href: 'https://t.me/deusfinance_news',
             },
             {
-              label: 'Discord',
-              href: 'https://discord.gg/DxdM7TW',
-            },
-            {
-              label: 'Youtube',
-              href: 'https://www.youtube.com/channel/UCEVRMEr1Kt-n6ycQSEYBScQ',
-            },
-            {
-              label: 'Twitch',
-              href: 'https://www.twitch.tv/deus_finance',
+              label: 'Lafayette\'s Twitter',
+              href: 'https://twitter.com/lafachief',
             },
           ],
         },
         {
-          title: 'Apps',
+          title: 'Website & Apps',
           items: [
             {
-              label: 'Conductor',
-              href: 'https://app.deus.finance/conductor',
-            },
-            {
+	      label: 'Website',
+	      href: 'https://deus.finance/'
+	    },
+	    {
               label: 'DEUS Swap',
               href: 'https://app.deus.finance/swap',
             },
