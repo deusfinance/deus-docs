@@ -10,14 +10,19 @@ Founder: Lafayette Tabor
 #### Development
 
 Lead developer: Mahdi Heydari, also works at BrightID
+
 Back-end: Hoseyn, Vahid 
+
 Frontend development & design: Tom and Mali
+
 Development coordinator: Paslar
 
 #### Publishing and community support
 
 Marketing lead: Alex
+
 Virtual assistant: Hamza Hussein
+
 Writer/proofreader: Nazar
 
 Community ambassadors: PennPeul, Tomek, Patrick, DrVllmr

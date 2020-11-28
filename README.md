@@ -1,4 +1,4 @@
-## DEUS Documentation
+## DEUS DOCS Documentation
 
 #### Notice
 This project is built using Docusaurus 2, a modern static website generator. It also uses code snippets from https://github.com/supabase/supabase, copyright supabase 2020, licensed under the Apache 2.0 license.

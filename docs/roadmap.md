@@ -16,8 +16,8 @@ From there on, users will be able to buy and sell TSLA and QQQ, as well as inver
 We plan to have around 500² different possible asset combinations on DEUS Swap.
 Because every asset can be combined with another asset, 250,000 different asset combinations on DEUS Swap will be available next year.
 
-**Mid-March: Rebalancing development begins** 
+**Mid-March: Rebalancing development begins.** 
 Learn more about rebalancing in [this medium article](https://lafayettetabor.medium.com/dea-discovering-her-true-powers-6d1cd311baef).
 
-**June: Acquiring security audits by respected brands**
+**June: Acquiring security audits by respected brands.**
 All contracts used will be audited.
