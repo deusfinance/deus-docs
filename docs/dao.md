@@ -26,8 +26,13 @@ Community ambassadors: PennPeul, Tomek, Patrick, DrVllmr
 ## The Council
 
 Currently consists of 24 members. Among them:
+
 Economics expert: Adriano M. 
+
 Stock-market advisor: Crypto Zen
+
 Coin lord: coinlordd (shoutout for setting up the backend for this wiki!)
+
 Testers: Airdroppered
+
 Social media advisors: Thad

@@ -17,7 +17,7 @@ First external audit conducted by Solidity.finance.
 
 Zapper announcement.
 
-Launch of the Timelocking Contracts that provide Liquidity for the first trading session "Sand of Time Vaults"
+Launch of the Timelocking Contracts "Sand of Time Vaults"
 
 
 

@@ -7,7 +7,7 @@ slug: /
 The roadmap is periodically updated to reflect new challenges and priorities we face, the most current one is provided [here].
 
 #### Who are the team members?
-DEUS is a team-led effort, spanning multiple work groups with people from all parts of the world. We have an [entire section] for you to find out more.
+DEUS is a team-led effort, spanning multiple work groups with people from all parts of the world. We have an [entire section](https://wiki.deus.finance/docs/dao) for you to find out more.
 
 #### Have any security audits been done?
 Security is always on our mind. Our first external audit, conducted by Solidity.finance found [no security issues](https://twitter.com/DeusDao/status/1329439248399921154) in our contracts. 
