@@ -97,7 +97,7 @@ module.exports = {
           items: [
             {
               label: 'Official Discord',
-              to: 'https://discord.gg/Ns6Zgbh2',
+              to: 'https://discord.gg/xfeYT6acha',
             },
             {
               label: 'Telegram Chat',
