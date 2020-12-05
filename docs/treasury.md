@@ -1,6 +1,6 @@
 ---
 id: treasury
-title: DEUS Treasury (DEUS Swap Liquidity)
+title: DEUS Treasury
 description:  
 ---
 
