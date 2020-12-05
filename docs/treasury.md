@@ -1,5 +1,5 @@
 ---
 id: treasury
-title: Treasury 
+title: DEUS Treasury 
 description:  
 ---
