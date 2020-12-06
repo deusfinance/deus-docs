@@ -1,6 +1,6 @@
 ---
 id: dao
-title: DEUS DAO 
+title: DEUS DAO (Team)
 description: 'Core DEUS finance team and representatives of the DAO' 
 ---
 ## Core Team
