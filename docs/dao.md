@@ -1,6 +1,6 @@
 ---
 id: dao
-title: DEUS DAO (Team)
+title: DEUS DAO (Contributors)
 description: 'Core DEUS finance team and representatives of the DAO' 
 ---
 ## Core Team
@@ -36,8 +36,15 @@ Economics expert: Adriano M.
 
 Stock-market advisor: Crypto Zen
 
+General market advisor: Conductor
+
 Coin lord: coinlordd (shoutout for setting up the backend for this wiki!)
 
-Testers: Airdroppered
+Testers: Airdroppered, Phoenixrusse, Markus & helpful community members.
 
 Social media advisors: Thad
+
+
+DEUS is an open protocol, anyone who thinks he has something meaningful to share or contribute can contact us anytime, and maybe one day your name also is added to that list.
+
+
