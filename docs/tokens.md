@@ -1,6 +1,6 @@
 ---
-id: dea_token
-title: DEA Token
+id: tokens
+title: Ecosystem Tokens
 description: 'What is DEUS Finance?'
 ---
 #### To be edited soon...
