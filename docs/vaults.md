@@ -22,7 +22,7 @@ The losses are reduced by
 #### Insurance fund
 
 
-The possibility is still infinitely little for it to happen, as traders as a whole tend to underperform the market rather than outperform. It should be mentioned and considered.
+The possibility of a partial loss of fund is tiny, as traders as a whole tend to underperform the market rather than outperform. It should still be mentioned and considered.
 
 
 
