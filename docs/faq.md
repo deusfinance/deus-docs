@@ -20,11 +20,6 @@ No real “shutting down” is feasible either. Once the contracts are up and ru
 #### What are the Vaults?
 [The Vaults](vaults.md) are in interface for liquidity providers, through which they can lock their tokens in exchange for yields.
 
-#### What is a rebase? When will it happen? What’s the point of holding DEA before the rebase?
-Eventually, DEA will become a stablecoin pegged to 1$. Those holding DEA before the rebase will NOT lose any value. 2 DEA worth $30 each will become 60 DEA worth 1$ each after the rebase.
-
-The rebase will happen around Q1-Q2 of 2021. Until then it still makes sense to hold DEA as its supply is limited and once more people understand the true value of this token in our ecosystem, the demand will rise significantly.
-
 #### “When moon?”/”When lambo?”
 DEUS is designed for stable incremental growth. That’s the reason we use the bonding curve and test our models thoroughly. We believe that steady growth outmatches any short term pump. And after all, maybe the real lambo is the friends we made along the way.
 
