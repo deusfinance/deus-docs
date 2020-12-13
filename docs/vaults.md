@@ -14,7 +14,7 @@ While staking is a good way to earn passive income, liquidity providers must exc
 
 There is a potential risk and partial loss of Funds is possible.
 
-The losses are reduced by 
+### The losses are reduced by 
 
 #### over-collateralization
 #### the possibility for traders to go Long and Short (Short profits get paid by Long losses)
