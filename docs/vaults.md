@@ -9,6 +9,9 @@ Sands of Time vaults will be staking contracts with time-locking features. At la
 
 While staking is a good way to earn passive income, liquidity providers must excercise due diligence before locking their tokens in the vaults.
 
-The maximum loss for a vault staker in the DEUS ecosystem is 35%, due to the profit cap on stocks being 350% and the 1000% overcollateralization. 
+There is a potential risk and partial loss of Funds possible reduced by over-collateralization and the possibility for traders to go Long and Short and, therefore, balance out their trades.
+The possibility is still infinitely little for it to happen, as traders as a whole tend to underperform the market rather than outperform. It should be mentioned and considered.
+
+
 
 In the future, different vaults will exist for different asset classes, and high-risk assets will be separated from their low-risk counterparts, allowing stakers more freedom in risk management. 
