@@ -9,7 +9,16 @@ Sands of Time vaults will be staking contracts with time-locking features. At la
 
 While staking is a good way to earn passive income, liquidity providers must excercise due diligence before locking their tokens in the vaults.
 
-There is a potential risk and partial loss of Funds possible reduced by over-collateralization and the possibility for traders to go Long and Short and, therefore, balance out their trades.
+There is a potential risk and partial loss of Funds is possible.
+
+The losses are reduced by 
+
+#### over-collateralization
+#### the possibility for traders to go Long and Short (Short profits get paid by Long losses)
+#### Stock profit caps
+#### Insurance fund
+
+
 The possibility is still infinitely little for it to happen, as traders as a whole tend to underperform the market rather than outperform. It should be mentioned and considered.
 
 
