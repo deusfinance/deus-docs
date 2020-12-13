@@ -3,7 +3,10 @@ id: vaults
 title: Sands of Time Vaults
 ---
 
-Sands of Time vaults will be staking contracts with time-locking features. At launch, only 6 month contracts will be available. This 6 months lock is necessary to bootstrap the platform to its full potential and will serve as the minimum viable product. Vaults with different time frames and risk levels will be added later. 
+Sands of Time vaults are time-lock contracts.
+
+[Lafayettes vault explainer on youtube](https://www.youtube.com/watch?v=6IYS21C5C3c&feature=youtu.be)
+
 
 #### Staking Risks
 
