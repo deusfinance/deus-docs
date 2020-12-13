@@ -18,6 +18,6 @@ rTokens are burned by Swap and an amount equivalent to the current market value 
 
 If by some chance rTokens significantly go up in value, and everyone decides to cash out at once, the treasury’s funds would not suffice. That’s why a major part of DEUS is incentivizing the provision of liquidity. 
 
-In order to provide liquidity users go to the [Sands of Time Vaults](vaults.md), where a smart contract locks their tokens for a set period of time in exchange for yields. The longer the tokens are locked - the higher the reward. Together, the Vaults back a stablecoin called [DEA](dea-token.md) (latin for “goddess”, nothing to do with drug enforcement), the most important token in our ecosystem.
+In order to provide liquidity users go to the [Sands of Time Vaults](vaults.md), where a smart contract locks their tokens for a set period of time in exchange for yields. The longer the tokens are locked - the higher the reward. Together, the Vaults back a called [DEA](dea-token.md) (latin for “goddess”, nothing to do with drug enforcement), the most important token in our ecosystem.
 
 Our unique selling point is the decoupling of traders and LP’s. This is the difference between DEUS and projects like SNX or Linear Finance. We give traders the possibility to enter the markets without providing any collateral.
