@@ -1,7 +1,7 @@
 ---
 id: timeline
 title: Development timeline
-description: 'Timeline of the mportant milestones and updates'
+description: 'Timeline of the important milestones and updates'
 ---
 Important milestones and updates related to the project.
 

@@ -7,18 +7,21 @@
 
 module.exports = {
   docs: [
+
     {
       type: 'category',
       label: 'Introduction',
-      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap', 'contribute'],
+      items: ['deus', 'timeline', 'faq', 'nutshell', 'the_vision', 'roadmap', 'contribute'],
       collapsed: false
     },
+
     {
       type: 'category',
       label: 'Interface',
       items: ['swap', 'registrar', 'conductor', 'oracles', 'zap', 'troubleshooting'],
       collapsed: false,
     },
+
     {
       type: 'category',
       label: 'Tokenomics',
