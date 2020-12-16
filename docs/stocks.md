@@ -6,7 +6,7 @@ description: Deploy & trade stocks seamlessly in an Uniswap-like environment.
 
 ![alt text](https://i.ibb.co/v3bx1vm/wTSLA2.png "Logo Title Text 1")
 
-##Key facts:
+## Key facts:
 
 - Registrars are wrapped stocks, commodities, or other traditional financial assests.
 - They are pegged 1:1 to their underlying asset via smart contracts relying on oracle-provided data.
