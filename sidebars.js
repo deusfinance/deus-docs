@@ -25,7 +25,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Interface',
-      items: ['swap', 'registrar', 'vaults', 'oracles', 'zap', 'troubleshooting'],
+      items: ['swap', 'vaults', 'oracles', 'zap', 'troubleshooting'],
       collapsed: false,
     },
 
