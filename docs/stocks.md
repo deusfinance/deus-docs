@@ -4,8 +4,6 @@ title: Registrars (wrapped Stocks)
 description: Deploy & trade stocks seamlessly in an Uniswap-like environment.
 ---
 
-![alt text](https://i.ibb.co/v3bx1vm/wTSLA2.png "Logo Title Text 1")
-
 ## Key facts:
 
 - Registrars are wrapped stocks, commodities, or other traditional financial assests.
@@ -14,6 +12,7 @@ description: Deploy & trade stocks seamlessly in an Uniswap-like environment.
 - There is a 1% spread applied when buying & selling that is paid to liquidity providers.
 - Traders can go LONG or SHORT on any stock, index or commodity that is listed on DEUS Swap (cryptocurrencies also planned, but not available anytime soon).  
 
+![alt text](https://i.ibb.co/v3bx1vm/wTSLA2.png "Logo Title Text 1")
 
 
 
