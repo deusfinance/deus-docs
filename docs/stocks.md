@@ -8,13 +8,15 @@ ___
 
 
 
-![alt text](https://raw.githubusercontent.com/deusfinance/deus-docs/master/images/wTSLA.jpg "Logo Title Text 1")
+![alt text](https://i.ibb.co/v3bx1vm/wTSLA2.png "Logo Title Text 1")
 
-Conductor
-What is Conductor?#
-Conductor is an automated stock tokenizer. Users choose a price feed for a stock they wish to tokenize and create a Registrar in a few clicks.
 
-The platform is currently under development and is set to release around NYE 2020.
+#### What are Registrars?
+##### Registrars are wrapped Stocks, commodities or other traditional financial assests.
+##### They are pegged 1:1 to their underlying asset via oracles & smart contracts.
+##### Prices get streamed in realtime from stock exchanges.
+##### There is a 1% spread applied when buying & selling that is paid to liquidity providers.
+##### Traders can go LONG or SHORT on any stock, index or commodity that is listed on DEUS Swap. (currently not on cryptocurrencies)
 
 
 
