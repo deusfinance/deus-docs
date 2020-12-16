@@ -1,7 +1,7 @@
 ---
 id: stocks
-title: Registrars (wrapped Stocks)
-description: Deploy & trade stocks seamlessly in an Uniswap-like environment.
+title: Registrars (wrapped stocks)
+description: 'Deploy & trade stocks seamlessly in an Uniswap-like environment.'
 ---
 
 ## Key facts:
