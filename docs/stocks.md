@@ -8,7 +8,7 @@ ___
 
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/deusfinance/deus-docs/master/images/wTSLA.jpg "Logo Title Text 1")
 
 Conductor
 What is Conductor?#
