@@ -18,7 +18,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Deeper dive',
-      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap', 'contribute'],
+      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap'],
       collapsed: false
     },
 
@@ -38,7 +38,7 @@ module.exports = {
     {
       type: 'category',
       label: 'DEUS DAO',
-      items: ['governance','dao'],
+      items: ['governance','dao', 'contribute'],
       collapsed: false,
     }
 
