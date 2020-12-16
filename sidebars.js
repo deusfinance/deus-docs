@@ -25,14 +25,14 @@ module.exports = {
     {
       type: 'category',
       label: 'Interface',
-      items: ['swap', 'registrar', 'oracles', 'zap', 'troubleshooting'],
+      items: ['swap', 'registrar', 'vaults', 'oracles', 'zap', 'troubleshooting'],
       collapsed: false,
     },
 
     {
       type: 'category',
       label: 'Tokenomics',
-      items: ['tokens_readme', 'tokens', 'treasury', 'vaults', 'stakeholders','risk_assessment'],
+      items: ['tokens_readme', 'tokens', 'treasury', 'stakeholders','risk_assessment'],
       collapsed: false,
     },
     {
