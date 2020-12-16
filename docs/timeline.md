@@ -6,9 +6,6 @@ description: 'Timeline of the important milestones and updates'
 Important milestones and updates related to the project.
 
 
-
----
-
 ### November 2020
 
 Roadmap updated. 
