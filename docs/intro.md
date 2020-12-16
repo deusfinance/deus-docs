@@ -1,13 +1,13 @@
 ---
 id: intro
-title: Start here
+title: Navigation help
 description: 'everything around DEUS on one page'
 ---
-### everything around DEUS on one page
+
 ___
 
-#### The Tokens
+### The Tokens
 #### [DEUS](deus.md) - Benefit from constant buybacks (less volatility).
 #### [DEA](dea) - Low supply, high demand as Liquidity pair in all farming pools (higher volatility).
-#### [Wrapped Stocks](stocks) - Deploy & Trade all U.S Stocks
+#### [Registrars (wrapped Stocks)](stocks) - Deploy & Trade stocks, indices & commodities.
 ##### Available stocks, commidities and assets will be updated frequently.
