@@ -11,7 +11,14 @@ module.exports = {
     {
       type: 'category',
       label: 'Introduction',
-      items: ['deus', 'timeline', 'faq', 'nutshell', 'the_vision', 'roadmap', 'contribute'],
+      items: ['intro', 'deus', 'dea' , 'stocks'],
+      collapsed: false
+    },
+
+    {
+      type: 'category',
+      label: 'Deeper dive',
+      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap', 'contribute'],
       collapsed: false
     },
 

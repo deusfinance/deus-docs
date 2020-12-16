@@ -75,8 +75,8 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'docs',
-          activeBasePath: '/docs/',
+          to: 'docs/intro',
+          activeBasePath: '/docs/intro',
           label: 'Docs',
           position: 'left',
         },
@@ -109,11 +109,11 @@ module.exports = {
           title: 'Additional Resources',
           items: [
 	    {
-              label: 'Official Medium (largely outdated)',
+              label: 'Official Medium',
               href: 'https://medium.com/@deusfinance',
             },
 	    {
-              label: 'Lafayette\'s Medium (recommended)',
+              label: 'Lafayette\'s Medium',
               href: 'https://lafayettetabor.medium.com/',
             },            
 	    {
@@ -121,11 +121,11 @@ module.exports = {
               href: 'https://github.com/deusfinance',
             },
 	    {
-              label: 'Lafayette\'s Youtube Explainers',
+              label: 'Youtube Explainers',
               href: 'https://www.youtube.com/channel/UCEVRMEr1Kt-n6ycQSEYBScQ',
             },
             {
-              label: 'Official Twitch',
+              label: 'Twitch',
               href: 'https://www.twitch.tv/deus_finance',
             },
           ],
