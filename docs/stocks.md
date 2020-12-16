@@ -3,7 +3,7 @@ id: stocks
 title: Registrars (wrapped Stocks)
 description: 'Benefit from constant buybacks, and a less volatile setup'
 ---
-### Deploy & Trade stocks seamlessly in an Uniswap like envoirment.
+### Deploy & Trade stocks seamlessly in an Uniswap like environment.
 ___
 
 
