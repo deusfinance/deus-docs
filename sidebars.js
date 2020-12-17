@@ -18,27 +18,27 @@ module.exports = {
     {
       type: 'category',
       label: 'Deeper dive',
-      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap', 'contribute'],
+      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Interface',
-      items: ['swap', 'registrar', 'conductor', 'oracles', 'zap', 'troubleshooting'],
+      items: ['swap', 'vaults', 'oracles', 'zap', 'troubleshooting'],
       collapsed: false,
     },
 
     {
       type: 'category',
       label: 'Tokenomics',
-      items: ['tokens_readme', 'tokens', 'treasury', 'vaults', 'stakeholders','risk_assessment'],
+      items: ['tokens_readme', 'treasury', 'stakeholders','risk_assessment'],
       collapsed: false,
     },
     {
       type: 'category',
       label: 'DEUS DAO',
-      items: ['governance','dao'],
+      items: ['governance','dao', 'contribute'],
       collapsed: false,
     }
 
