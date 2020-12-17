@@ -2,6 +2,8 @@
 id: intro
 title: Navigation help
 description: 'Quick summary of every DEUS wiki entry'
+slug: /
+
 ---
 
 ___

@@ -1,7 +1,7 @@
 ---
 id: faq
 title: FAQ
-slug: /
+
 ---
 #### What is your roadmap?
 The roadmap is periodically updated to reflect new challenges and priorities we face, the most current one is provided [here](roadmap.md).
