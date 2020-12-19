@@ -10,6 +10,9 @@ Sands of Time vaults are time-lock contracts.
 
 #### Staking Risks
 
+Vaults are providing liquidity and collateral to the stock trades, the system is designed in a way that LONGs are paying SHORTs and vice versa, if semantics are changing into one direction and the 
+
+
 While staking is a good way to earn passive income, liquidity providers must excercise due diligence before locking their tokens in the vaults.
 
 There is a potential risk and partial loss of Funds is possible.
