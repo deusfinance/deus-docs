@@ -32,4 +32,8 @@ Launch of bonding curve at DEUS Swap.
 Launch of static sale at DEUS Swap.
 
 
+### December 2020
+Launch of DEUS Synthetic Coinbase IOU token (WCOINBASE-IOU)
+ 
+
 
