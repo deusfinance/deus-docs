@@ -4,7 +4,7 @@ title: DEA token
 description: 'Core DEUS finance team and representatives of the DAO'
 ---
 
-#### - DEA is and never will be a stablecoin, as it was [voted](https://t.me/deusfinance/33986) by the community to not mint any more tokens (shards).
+#### - DEA will never be a stablecoin, as it was [voted](https://t.me/deusfinance/33986) by the community to not mint any more tokens (shards).
 #### - The segniorage stablecoin system will still be developed but eventually without DEA as a keyrole as the community demanded.
 #### - Pooling DEA to provide an exit gateway for Vault stakers, enables you to earn the maximum Fees inside the DEUS ecosystem.
 #### - Can be bought on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3b62f3820e0b035cc4ad602dece6d796bc325325&outputCurrency=0x80ab141f324c3d6f2b18b030f1c4e95d4d658778) or [DEUS Swap](https://app.deus.finance/swap).
