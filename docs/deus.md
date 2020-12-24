@@ -7,7 +7,7 @@ description: 'Benefit from constant buybacks, and a less volatile setup'
 
 ## Key facts:
 - DEUS is backed by Ethereum: [Treasury#1](https://etherscan.io/address/0xD77700fC3C78d1Cb3aCb1a9eAC891ff59bC7946D) & [Treasury#2](https://etherscan.io/address/0xc2fB644cd18325C58889Cf8BB0573e4a8774BCD2)
-- Can be exchanged for Ethereum at any time with [DEUS Swap](app.deus.finance/swap). 
+- Can be exchanged for Ethereum at any time with [DEUS Swap](https://app.deus.finance/swap). 
 - The liquidity mining event created a price bottom for DEUS at 0.0015ETH.
 - DEUS supply is infinite and DEUS price moves along the bonding curve. The curve, thus, has no upper limit.
 - Buying on [DEUS Swap](https://app.deus.finance/swap) increases the supply. Higher supply means higher price. Buying on Uniswap is considered buying from a secondary market and does not increase the price/affect the bonding curve. 
