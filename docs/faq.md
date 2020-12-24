@@ -32,4 +32,4 @@ Projects like FTX, Etoro, Robinhood or any other centralized broker entities are
 The closest project to DEUS.finance is cap.finance. From what is currently known about the project their mirrored asset tokens are not moveable on-chain. Other significant differences remain to be seen.
 
 #### What is the maximum supply?
-There is no maximum supply. DEUS continuously mints and burns tokens. Read more about the bonding curve [here](deus-token.md).
+There is no maximum supply. DEUS continuously mints and burns tokens. Read more about the bonding curve [here](deus.md).
