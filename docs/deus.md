@@ -14,7 +14,7 @@ description: 'Benefit from constant buybacks, and a less volatile setup'
 
 ___
 ## Bonus for DEUS holders:
-Everytime there a Registrar is bought on DEUS Swap, there will be a buyback in the background that mints more DEUS which results in a price increase of DEUS at DEUS Swap. Constant buybacks guarantee small yet consistent gains.
+Everytime a Registrar is bought on DEUS Swap, there will be a buyback in the background that mints more DEUS which results in a price increase of DEUS on DEUS Swap. Constant buybacks guarantee small yet consistent gains.
 
 The casino always wins, and DEUS holders essentially insure the casino, getting paid no matter which way the wrapped stonks go. The bonding curve does not allow for any explosive gains or devestating fast crashes.
 
