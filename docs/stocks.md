@@ -14,6 +14,8 @@ description: 'Deploy & trade stocks seamlessly in an Uniswap-like environment.'
 
 ![alt text](https://i.ibb.co/v3bx1vm/wTSLA2.png "Logo Title Text 1")
 
+### If traders are making profits with Stocks, [who is paying that Profit?](profit.md)
+
 
 
 
