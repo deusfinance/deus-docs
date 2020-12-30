@@ -5,7 +5,7 @@ description: 'Who is paying trader profits?'
 ---
 
 
-##### Trading is usually reffered to a zero-sum game because one person gaining is equivalent to someone else losing. 
+##### Trading is usually refered to as a zero-sum game because one person gaining is equivalent to someone else losing. 
 This in the long-term means traders are paying each other out. 
 Now in the beginning where there is a disbalance of traders or more are just profiting than losing the exchange is the one that pays out.
 ##### Where Do These Profits come from?
