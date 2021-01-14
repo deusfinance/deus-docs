@@ -7,10 +7,11 @@ description:
 #### How to stake tokens in the Vaults?
 
 - Head over to the [Vaults](https://app.deus.finance/vaults/)
-- Click "lock here"
+- Click "lock here" on whichever asset you would like to lock
 - Approve Contract
 - Input how much you want to lock
 - Click "Lock & Mint"
+
 ![alt text](https://i.ibb.co/Hxn9RtS/image.png"Logo Title Text 1")
 
 #### Can DEUS be held in Metamask? 
