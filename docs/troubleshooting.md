@@ -12,7 +12,7 @@ description:
 - Input how much you want to lock
 - Click "Lock & Mint"
 
-![alt text](https://i.ibb.co/Hxn9RtS/image.png"Logo Title Text 1")
+![alt text](https://i.ibb.co/Hxn9RtS/image.png "Logo Title Text 1")
 
 #### Can DEUS be held in Metamask? 
 Yes, in fact ONLY Metamask is currently supported by DEUS Swap. It works like any other ERC-20 token. 
