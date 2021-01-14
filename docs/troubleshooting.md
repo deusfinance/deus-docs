@@ -5,7 +5,14 @@ description:
 ---
 
 #### How to stake tokens in the Vaults?
-TBA
+
+- Head over to the [Vaults](https://app.deus.finance/vaults/)
+- Click "lock here"
+- Approve Contract
+- Input how much you want to lock
+- Click "Lock & Mint"
+![alt text](https://i.ibb.co/Hxn9RtS/image.png"Logo Title Text 1")
+
 #### Can DEUS be held in Metamask? 
 Yes, in fact ONLY Metamask is currently supported by DEUS Swap. It works like any other ERC-20 token. 
 
