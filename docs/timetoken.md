@@ -13,11 +13,11 @@ Time tokens are calculated based on dollar value deposited and time at which you
 
 ### Key facts:
 
--Time token has no value 
--Time token is not movable
+- Time token has no value 
+- Time token is not transferable
 
 
 ## What do people get by holding Time tokens?
 
-People with a high reputation (a large number of Time tokens) will be able to receive airdrop NFT's as a purchase of stocks & participate in IPO's earlier. A voting sytem is also being developed where a user or the developers can submit a proposal or wIPO/wStock to be listed and have the community vote with Time tokens.
+Addresses with Time tokens will be able to receive airdrop NFT's as a purchase of wStocks & participate in wIPO's earlier. A voting sytem is also being developed where a user or the developers can submit a proposal or wIPO/wStock to be listed and have the community vote with Time tokens.
 
