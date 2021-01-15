@@ -15,22 +15,10 @@ ___
 
 ## Why have two protocol tokens?
 
-DEUS could not be pre-minted and thus could not be used for the liquidity mining event. Liquidity mining was meant to let people engage with the DEUS protocol, by letting them farm pre-minted DEA until we launch the stock trading platform by late December 2020.
+DEUS could not be pre-minted and thus could not be used for the liquidity mining event. Liquidity mining was meant to encourage users to engage with the DEUS protocol, by letting them farm pre-minted DEA until the launch of the stock trading platform by late January 2021.
 
-DEA was initially supposed to become a stablecoin, but the idea was vetoed by the community. Instead, DEA became a low supply coin that has unlimited upside and is the perfect pick for users that had issues with the low price sensetivity of the DEUS token.
+DEA was initially concieved as a stablecoin, but this idea was vetoed by the community. Instead, DEA became a low supply coin that has unlimited upside and is the perfect complement to the low price sensitivity of the DEUS token.
 
-The seigniorage stablecoin system will still be developed eventually, but with a different coin serving this role.
+A seigniorage stablecoin system will also be developed eventually, but with a different coin serving this role.
 
-
-
-
-## More detailed description
-
-You need DEA to get into the Balancer Pools (around 70% of the pooled assets are DEA in some form)
-those pools earn around 70% of all fees.
-so whenever someone comes to the platform, that doesnt want to trade but instead be a LiquidityProvider and earn fees
-he will use the Zapper
-to get into the highest yielding pool
-the zapper will automatically buy alot of DEA with his money
-and put it into the staking pools
-this will be done seamlessly
+DEA is used to partially collateralize the protocol. It is also the primary source of fees earned by liquidity providers. In order to become liquidity providers users need DEA to enter the Balancer pools, around 70% of which are composed of DEA in some form. Those pools earn around 70% of all fees. In later stages other assets, like WBTC, will be added as collateral.
