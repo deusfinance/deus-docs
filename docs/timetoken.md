@@ -1,6 +1,6 @@
 ---
 id: timetoken
-title: Time tokens
+title: Time token
 ---
 
 The Time token shows your reputation based on how much time you gave DEUS by providing liquidity in the Vaults. A person locking up liquidity on day one of the Trading Season will not receive the same amount of Time tokens as a person locking on day 30 and so forth.

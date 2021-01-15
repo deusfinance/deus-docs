@@ -8,7 +8,7 @@ slug: /
 
 ___
 
-### (updated 17.12.2020)
+### (updated 15.01.2021)
 ## The Tokens
 #### [DEUS](deus.md) – Benefit from constant buybacks (less volatility).
 #### [DEA](dea) – A liquidity pair in all farming pools. Low supply, high demand (higher volatility).
