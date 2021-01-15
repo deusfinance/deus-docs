@@ -1,6 +1,6 @@
 ---
 id: timetoken
-title: What are Time tokens?
+title: Time tokens
 ---
 
 The Time token shows your reputation based on how much time you gave DEUS by providing liquidity in the Vaults. A person locking up liquidity on day one of the Trading Season will not receive the same amount of Time tokens as a person locking on day 30 and so forth.
@@ -17,7 +17,7 @@ Time tokens are calculated based on dollar value deposited and time at which you
 
 ## What do people get by holding Time tokens?
 
-Addresses with Time tokens will be able to receive airdrop NFT's as a purchase of wStocks & participate in wIPO's earlier. A voting sytem is also being developed where a user or the developers can submit a proposal or wIPO/wStock to be listed and have the community vote with Time tokens.
+Addresses with Time tokens will be able to receive airdrop NFT's as a purchase of wStocks & participate in wIPO's earlier. A voting system is also being developed where a user or the developers can submit a proposal or wIPO/wStock to be listed and have the community vote with Time tokens.
 
 
 [Lafayette's explainer on Youtube](https://www.youtube.com/watch?v=Xdxj8opzQgw)
