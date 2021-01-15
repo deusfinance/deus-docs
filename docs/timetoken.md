@@ -9,7 +9,7 @@ The Time token shows your reputation based on how much time you gave DEUS by pro
 
 Time tokens are calculated based on dollar value deposited and time at which you deposit. $1 on Day 1 = 180 tokens and $1 on Day 180 = 1 token
 
-### Key facts:
+#### Key facts:
 
 - Time token has no value 
 - Time token is not transferable
