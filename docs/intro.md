@@ -8,7 +8,6 @@ slug: /
 
 ___
 
-#### TEST
 ### (updated 17.12.2020)
 ## The Tokens
 #### [DEUS](deus.md) – Benefit from constant buybacks (less volatility).
