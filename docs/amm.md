@@ -16,7 +16,7 @@ Orders large or small are always ready to buy and sell on Deus Swap as instead o
  
 Traders are buying from the Deus treasury, which mints the tokens on the spot. When they choose to sell, the Deus treasury buys back the tokens at the updated price, as determined by the primary market for the asset. This is how Deus can list thousands of assets without having billions of dollars spread across many liquidity pools.
 
-![alt text](https://ibb.co/cg14Nx4 "Logo Title Text 2")
+![alt text](https://i.ibb.co/ngbxDRx/comparison.png "Comparison")
 
 
 
