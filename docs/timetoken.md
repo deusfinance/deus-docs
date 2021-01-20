@@ -17,8 +17,10 @@ Time tokens are calculated based on dollar value deposited and time at which you
 
 ## What do people get by holding Time tokens?
 
-Addresses with Time tokens will be able to receive airdrop NFT's as a purchase of wStocks & participate in wIPO's earlier. A voting system is also being developed where a user or the developers can submit a proposal or wIPO/wStock to be listed and have the community vote with Time tokens.
+- Time token may be staked to earn Dea.  
+- Addresses with Time tokens will be able to receive airdrop NFT's as a purchase of wStocks & participate in wIPO's earlier. 
+- A voting system is also being developed where a user or the developers can submit a proposal or wIPO/wStock to be listed and have the community vote with Time tokens.
 
 
-[Lafayette's explainer on Youtube](https://www.youtube.com/watch?v=Xdxj8opzQgw)
+[Lafayettes explainer on Youtube](https://www.youtube.com/watch?v=Xdxj8opzQgw)
 
