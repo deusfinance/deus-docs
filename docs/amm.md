@@ -1,6 +1,6 @@
 ---
 id: amm
-title: AMM
+title: Automated Market Makers
 ---
 
 

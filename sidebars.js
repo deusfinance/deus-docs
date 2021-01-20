@@ -11,21 +11,21 @@ module.exports = {
     {
       type: 'category',
       label: 'Introduction',
-      items: ['intro', 'deus', 'dea' , 'timetoken' , 'stocks', 'profit'],
+      items: ['intro', 'deus', 'dea' , 'timetoken' , 'stocks'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Deeper dive',
-      items: ['timeline', 'faq', 'nutshell', 'the_vision', 'roadmap'],
+      items: ['timeline', 'faq', 'nutshell', 'profit',  'the_vision', 'roadmap'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Interface',
-      items: ['swap', 'vaults', 'oracles', 'zap', 'troubleshooting'],
+      items: ['swap', 'amm', 'vaults', 'oracles', 'zap', 'troubleshooting'],
       collapsed: false,
     },
 
