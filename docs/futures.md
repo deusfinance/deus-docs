@@ -4,24 +4,21 @@ title: Futures (pre-IPOs)
 description: 'Trade Futures for IPOs and other announced financial instruments'
 ---
 
-Not only does Deus allows users to trade wStocks and other synthetics, but they can also trade and speculate Futures(IOU's) and wIPO's.
+Not only does Deus allows users to trade wStocks and other synthetics, but they can also trade and speculate Futures(IOU's).
 
 ## What is a Future(IOU)?
 
 A Future or IOU on DEUS Swap is a token issued on the ethereum blockchain, representing a speculative value of the potential IPO underlying asset. This allows you to trade the time period between the initial news or details of the IPO and the actual IPO date. 
 
-### How do futures get traded on DEUS?
+### How do Futures get traded on DEUS?
+
 - Step 1: There is a static sale
 - Step 2: The IOU goes on a AMM bonding curve
 - Step 3: Conversion of Future to real asset price IF asset goes public.
 
-- Step 1: Static Sale Price
-- Step 2: Curve trading of Future product
-- Step 3: Conversion of Future to real Asset price when trading starts
+### FAQ:
 
-FAQ:
-
-#### What is the Static Sale?
+#### What is the static sale?
 
 The static sale is the initial sale of liquidity to traders. The Future is bought with DEUS at a static price and a capped max amount. 
 

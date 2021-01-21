@@ -1,6 +1,6 @@
 ---
 id: nutshell
-title: In a Nutshell
+title: What is DEUS in a Nutshell?
 description:
 ---
 
@@ -12,10 +12,10 @@ Assets can include cryptocurrencies, stocks, bonds, or commodities - virtually a
 
 Traders invest in Registrars through a platform called [DEUS Swap](swap.md), our decentralized exchange. Their funds are moved to the treasury, called Conductor Custody, and wTokens are minted in return. 
 
-Once a trader decides to sell their investment, they go to Swap during official stock trading hours (tokens can still be moved around the Ethereum blockchain outside the regular trading hours, creating a 24/7 secondary market). wTokens are burned by Swap and an amount equivalent to the current market value of the underlying asset(s) is paid from [the treasury](treasury.md). Users may also trade their rTokens through other exchanges, such as Uniswap, or even stake them.
+Once a trader decides to sell their investment, they go to Swap during official stock trading hours (tokens can still be moved around the Ethereum blockchain outside the regular trading hours, creating a 24/7 secondary market). wTokens are burned by Swap and an amount equivalent to the current market value of the underlying asset(s) is paid from [the treasury](treasury.md). Users may also trade their wTokens through other exchanges, such as Uniswap, or even stake them.
 
-If by some chance wTokens significantly go up in value, and everyone decides to cash out at once, the treasury’s funds would not suffice. That’s why a major part of DEUS is incentivizing the provision of liquidity. 
+If by some chance wTokens significantly go up in value and everyone decides to cash out at once, the treasury’s funds would not suffice. That’s why a major part of DEUS is incentivizing the provision of liquidity. 
 
-In order to provide liquidity LPs go to the [Sands of Time Vaults](vaults.md), where a smart contract locks their tokens for a set period of time in exchange for yields. The longer the tokens are locked - the higher the reward. The rewards are paid out in [DEA](dea.md) (latin for “goddess”, nothing to do with drug enforcement), the most important token in our ecosystem.
+In order to provide liquidity LPs go to the [Sands of Time Vaults](vaults.md), where a smart contract locks their tokens for a set period of time in exchange for yields. The longer the tokens are locked - the higher the reward. The rewards are paid out in [DEA](dea.md) (latin for “goddess”), the most important token in our ecosystem.
 
 Our unique selling point is the decoupling of traders and LP’s. This is the difference between DEUS and projects like SNX or Linear Finance. We give traders access to the stock market without requiring them to provide any collateral.

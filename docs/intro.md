@@ -18,7 +18,7 @@ ___
 
 [Registrars (wrapped Stocks)](stocks) - Deploy & trade stocks, indices, and commodities.
 
-Available stocks, commodities, and assets will be updated frequently.
+[Futures(IOU's)](futures) - Trade an asset before an IPO.
 
 [Vaults (Stock backing)](vaults) - Provide Liquidity for stocktrades, mint sealed Tokens and earn trading fees when staking them.
 

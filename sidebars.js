@@ -11,14 +11,14 @@ module.exports = {
     {
       type: 'category',
       label: 'Introduction',
-      items: ['intro', 'deus', 'dea' , 'timetoken' , 'stocks'],
+      items: ['nutshell', 'intro', 'deus', 'dea' , 'timetoken' , 'stocks', 'futures'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Deeper dive',
-      items: ['timeline', 'faq', 'nutshell', 'profit',  'the_vision', 'roadmap'],
+      items: ['timeline', 'faq', 'profit',  'the_vision', 'roadmap'],
       collapsed: false
     },
 
