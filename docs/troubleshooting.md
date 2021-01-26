@@ -30,11 +30,3 @@ We do not advise users to buy from Uniswap. High slippage may occur and trading 
 
 If you'd still rather purchase on Uniswap, you're obviously free to do so, but please watch out for FAKE-clone-tokens. Always make sure you are buying the right one by using the right contract address.
 
-#### How to buy on DEUS Swap:
-![alt text](https://i.ibb.co/0hknSHV/1.png "Step 1")
-![alt text](https://i.ibb.co/0hknSHV/2.png "Step 2")
-![alt text](https://i.ibb.co/0hknSHV/3.png "Step 3")
-![alt text](https://i.ibb.co/0hknSHV/4.png "Step 4")
-![alt text](https://i.ibb.co/0hknSHV/5.png "Step 5")
-![alt text](https://i.ibb.co/0hknSHV/6.png "Step 6")
-![alt text](https://i.ibb.co/0hknSHV/7.png "Step 7")
