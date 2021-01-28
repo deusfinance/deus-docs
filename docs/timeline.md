@@ -18,7 +18,7 @@ Important milestones and updates related to the project.
 ### November 2020
 
 - Roadmap updated.
-- First external audit conducted by [Solidity.finance](https://solidity.finance/audits/DEUS/).
+- First audit conducted by [Defi Yield](https://defiyield.info/assets/pdf/Deus.finance.new.pdf).
 - Zapper announcement
 - Community [voted](https://t.me/deusfinance/33986) against DEA becoming a stablecoin.
 
