@@ -1,7 +1,8 @@
 import React from 'react'
 import Layout from '@theme/Layout'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
-import maintainers from '../data/maintainers.json'
+import developers from '../data/developers.json'
+import members from '../data/members.json'
 import GithubCard from '../components/GithubCard'
 import { repos } from '../data/github'
 
@@ -9,11 +10,11 @@ export default function Oss() {
   const [activePill, setActivePill] = React.useState('All')
   const context = useDocusaurusContext()
   const { siteConfig = {} } = context
-  const maintainerTags = maintainers
+  const developerTags = developers
     .reduce((acc, x) => acc.concat(x.tags), []) // get all tags
     .filter((v, i, a) => a.indexOf(v) === i) // remove duplicates
     .sort((a, b) => a.localeCompare(b)) // alphabetical
-  const maintainerPills = ['All'].concat(maintainerTags)
+  const developerPills = ['All'].concat(developerTags)
 
   return (
     <Layout title={`${siteConfig.title}`} description={siteConfig.tagline}>
@@ -30,12 +31,40 @@ export default function Oss() {
         </div>
       </section>
 
-      {/* Core */}
-      <section className={'section-lg'}>
+      {/* DAO Members */}
+      <section className={'section-lg'} id="council">
         <div className="container">
-          <h2>DAO Maintainers</h2>
+        <h2 className="with-underline">DAO Council Members</h2>
+          <div className="row is-multiline">
+            {members
+              .map((x, idx) => (
+                <div className={'col col--4'} key={idx}>
+                  <div className="card">
+                    <div className="card__body">
+                      <div className="avatar">
+                        <div className="avatar__photo-link avatar__photo avatar__photo--lg">
+                          <img alt={x.name} src={`img/members/${x.img_name}`} />
+                        </div>
+                        <div className="avatar__intro">
+                          <h4 className="avatar__name">{x.name}</h4>
+                          <small className="avatar__subtitle">{x.role}</small>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              ))}
+          </div>
+          <br />
+        </div>
+      </section>
+
+      {/* Developers */}
+      <section className={'section-lg'} id="developers">
+        <div className="container">
+          <h2>Developers</h2>
           <ul class="pills">
-            {maintainerPills.map((x) => (
+            {developerPills.map((x) => (
               <li
                 key={x}
                 class={`pills__item ${activePill == x ? 'pills__item--active' : ''}`}
@@ -47,7 +76,7 @@ export default function Oss() {
           </ul>
 
           <div className="row is-multiline">
-            {maintainers
+            {developers
               .filter((x) => activePill == 'All' || x.tags.includes(activePill))
               .sort((a, b) => a.handle.localeCompare(b.handle))
               .map((x, idx) => (
@@ -72,7 +101,7 @@ export default function Oss() {
       </section>
 
       {/* Repositories */}
-      <section className={'section-lg'}>
+      <section className={'section-lg'} id="repositories">
         <div className="container">
           <h2>Repositories</h2>
           <div className="row is-multiline">
