@@ -9,12 +9,12 @@ ___
 
 ## What is DEUS?
 
-DEUS finance is a DeFi protocol that enables users to use its oracles to input any data and tokenize it, allowing any user to trade it on the blockchain. Its an easy system that allows listing of every asset on the planet; regardless if a person,the SEC or company wants it or not.
+DEUS finance is a DeFi protocol that enables users to use its oracles to input any data and tokenize it, allowing any user to trade it on the blockchain. Its an easy system that allows listing of every asset on the planet; regardless if a person, the SEC or company wants it or not.
 
 
 ## How does DEUS work?
 
-Deus allows users to create [Registrars](registrar), virtual copies of assets or baskets of assets, pegged 1:1 to their real-world equivalents. Each Registrar is represented with its own ERC-20 token (wToken). It is as simple as going to the Conductor and choosing a price feed for the asset they wish to tokenize and our oracles provide live and infinite prices on demand. These prices are are specific to you at time requested allowing traders to not be frontrun. Traders invest in Registrars through a platform called DEUS Swap, our decentralized exchange.
+Deus allows users to create [Registrars](registrar), virtual copies of assets or baskets of assets, pegged 1:1 to their real-world equivalents. Each Registrar is represented with its own ERC-20 token (wToken). It is as simple as going to the Conductor and choosing a price feed for the asset they wish to tokenize. Our oracles then provide live and infinite prices on demand. These prices are specific to you at time requested allowing traders to not be frontrun. Traders invest in Registrars through a platform called DEUS Swap, our decentralized exchange.
 
 
 ## Why DEUS?
@@ -30,13 +30,13 @@ Deus allows users to create [Registrars](registrar), virtual copies of assets or
 ### As a Liquidity Provider
 - Losses and fees from Traders
 - Earlier access to certain IPO's or stocks
-- Governance/voting power in the Dao
-- More liquidity means more trading, which grows ecosystem benefiting Deus and Dea price
+- Governance/voting power in the DAO
+- More liquidity means more trading, which grows ecosystem benefitting the price of DEUS and DEA.
 
 
 ## Why two tokens?
 
-[DEUS](deus.md) – A share in the Ecosystem. Benefits from constant buybacks. (less volatility).
+[DEUS](deus.md) – A share in the Ecosystem. Benefits from constant buybacks (less volatility).
 
 [DEA](dea) – A liquidity pair in all farming pools, needed for max returns on trading fees. Low supply, high demand (higher volatility).
 
