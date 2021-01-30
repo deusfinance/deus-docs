@@ -11,7 +11,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Introduction',
-      items: ['nutshell', 'intro', 'deus', 'dea' , 'timetoken' , 'stocks', 'futures'],
+      items: ['intro', 'deus', 'dea' , 'timetoken' , 'stocks', 'futures'],
       collapsed: false
     },
 
