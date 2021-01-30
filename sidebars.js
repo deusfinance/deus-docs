@@ -18,14 +18,14 @@ module.exports = {
     {
       type: 'category',
       label: 'Deeper dive',
-      items: ['timeline', 'faq', 'profit',  'the_vision', 'roadmap'],
+      items: ['oracles', 'profit', 'timeline', 'faq', 'the_vision', 'roadmap'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Interface',
-      items: ['swap', 'amm', 'vaults', 'oracles', 'zap', 'troubleshooting'],
+      items: ['swap', 'amm', 'vaults', 'troubleshooting'],
       collapsed: false,
     },
 
