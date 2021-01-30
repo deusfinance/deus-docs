@@ -32,7 +32,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Tokenomics',
-      items: ['tokens_readme', 'treasury', 'stakeholders','risk_assessment'],
+      items: ['tokens_readme', 'treasury', 'risk_assessment'],
       collapsed: false,
     },
     {
