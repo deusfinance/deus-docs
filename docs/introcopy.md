@@ -2,7 +2,6 @@
 id: iintro
 title: Welcome to DEUS
 description: 'Quick summary of DEUS'
-slug: /
 
 ---
 
