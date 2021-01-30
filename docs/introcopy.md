@@ -9,7 +9,7 @@ ___
 
 ## What is DEUS?
 
-DEUS finance is a DeFi protocol that enables users to use its oracles to input any data and tokenize it and others can trade it on the blockchain. Its an easy system that allows listing of every asset on the planet regardless if a person,the SEC or company wants it or not.
+DEUS finance is a DeFi protocol that enables users to use its oracles to input any data and tokenize it, allowing any user to trade it on the blockchain. Its an easy system that allows listing of every asset on the planet; regardless if a person,the SEC or company wants it or not.
 
 
 ## How does DEUS work?
