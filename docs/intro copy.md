@@ -38,12 +38,12 @@ Deus allows users to create [Registrars](registrar), virtual copies of assets or
 [DEUS](deus.md) – A share in the Ecosystem. Benefits from constant buybacks (less volatility)
 
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
-<coingecko-coin-ticker-widget  coin-id="deus-finance" currency="usd" locale="en" width="0" background-color="#ababab"></coingecko-coin-ticker-widget>
+<coingecko-coin-ticker-widget  coin-id="deus-finance" currency="usd" locale="en" width="0" background-color="#ffffff00"></coingecko-coin-ticker-widget>
 
 
 [DEA](dea) – A liquidity pair in all farming pools, needed for max returns on trading fees. Low supply, high demand (higher volatility).
 
-<coingecko-coin-ticker-widget  coin-id="dea" currency="usd" locale="en" width="0" background-color="#ababab"></coingecko-coin-ticker-widget>
+<coingecko-coin-ticker-widget  coin-id="dea" currency="usd" locale="en" width="0" background-color="#ffffff00"></coingecko-coin-ticker-widget>
 
 
 ## Where to buy? 
