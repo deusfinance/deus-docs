@@ -11,30 +11,31 @@ module.exports = {
     {
       type: 'category',
       label: 'Introduction',
-      items: ['intro', 'deus', 'dea' , 'timetoken' , 'stocks', 'futures'],
+      items: ['intro','the_vision','timeline','roadmap','faq'],
+      collapsed: false
+    },
+
+    {
+      type: 'category',
+      label: 'Tokens',
+      items: ['deus', 'dea' , 'timetoken' , 'stocks', 'futures'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Deeper dive',
-      items: ['oracles', 'profit', 'timeline', 'faq', 'the_vision', 'roadmap'],
+      items: ['amm','oracles', 'profit','treasury', 'risk_assessment' ],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Interface',
-      items: ['swap', 'amm', 'vaults', 'troubleshooting'],
+      items: ['swap', 'vaults', 'troubleshooting'],
       collapsed: false,
     },
 
-    {
-      type: 'category',
-      label: 'Tokenomics',
-      items: ['tokens_readme', 'treasury', 'risk_assessment'],
-      collapsed: false,
-    },
     {
       type: 'category',
       label: 'DEUS DAO',
