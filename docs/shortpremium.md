@@ -19,21 +19,21 @@ This “conducting event” creates the smart contract that is pegged 1:1 with t
  A lower short premium vs. the registrar’s oracle price indicates the price has moved up since tokenization <br/>
  Short premiums do not cost the short trader anything, it is simply a mechanism to keep the short token pegged to the oracle price <br/>
 
-## Example: 
- A stock trades at $10 dollars when it is conducted, and the next day it trades for $5 dollars. 
+### Example: 
+ A stock trades at $10 dollars when it is conducted and the next day it trades for $5 dollars. 
  If you decide to short it on the traditional stock market with $100 you will be short 20 shares.   
  When the stock price declines to $1 dollar and you buy back the shares you book $80 dollars in profit. 
 
  If you take the same short position in Deus with $100, you will pay a short premium of $5 because the asset price has fallen 50% since it was conducted.  
  You will receive 10 short tokens instead of receiving 20 “shares short” in traditional finance 
- However when the asset declines in price to $1 and you swap back into the Deus sycnhronizer the premium will have increased 80%  
+ However when the asset declines in price to $1 and you swap back into the Deus synchronizer the premium will have increased 80%  
  (from $5 to $1) and you will book the same $80 profit as in the traditional stock market example above. 
 
-## Key Takeaway:  
- The “short premium” does not cost the trader anything. 
- Short sellers get to “keep” the premium they pay because the premium is a constantly changing percentage that mathematically 
- adjusts the short token price to keep track of gains and losses on the blockchain.
- The short premium enables the smart contract to peg the short token to the oracle price via the conducting event and allows for the decentralized shorting of registrars. 
+### Key Takeaway:  
+- The “short premium” does not cost the trader anything. 
+- Short sellers get to “keep” the premium they pay because the premium is a constantly changing percentage that mathematically adjusts the short token price to keep track of gains and losses on the blockchain.
+- The short premium enables the smart contract to peg the short token to the oracle price via the conducting event and allows for the decentralized shorting of registrars. 
+
 Here is an example of TSLA which went up in price since it was conducted:
 
 ![alt text](https://i.ibb.co/dL6mwvB/t.jpg "Comparison")
