@@ -25,7 +25,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Deeper dive',
-      items: ['amm','oracles', 'profit','treasury', 'risk_assessment', 'shortpremium'  ],
+      items: ['amm','oracles', 'profit', 'shortpremium'],
       collapsed: false
     },
 

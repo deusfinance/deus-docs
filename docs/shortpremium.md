@@ -1,7 +1,7 @@
 ---
 id: shortpremium
-title: ShortPremium
-description: What is the ShortPremium?
+title: Short Premium
+description: What is the Short Premium?
 ---
 
 
