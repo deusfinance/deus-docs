@@ -1,6 +1,6 @@
 ---
 id: oracles
-title: Oracles
+title: Unique Oracles
 description: What are oracles and why do we use them?
 ---
 

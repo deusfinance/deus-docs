@@ -1,7 +1,12 @@
 ---
 id: dea
-title: DEA token
+title: DEA token (Share)
 description: 'Core DEUS finance team and representatives of the DAO'
+---
+
+### DEA can be seen as a Share of the Ecosystem, needed to earn Fees.
+#### There will be more and more Unique usecases created in the future for DEA.
+
 ---
 
 - Fixed supply of 166,670 tokens as [voted](https://t.me/deusfinance/33986) by the community.

@@ -1,7 +1,8 @@
 ---
 id: shortpremium
-title: Short Premium
+title: Short price calculations
 description: What is the Short Premium?
+
 ---
 
 

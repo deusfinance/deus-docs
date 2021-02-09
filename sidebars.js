@@ -18,21 +18,14 @@ module.exports = {
     {
       type: 'category',
       label: 'Tokens',
-      items: ['deus', 'dea' , 'timetoken' , 'stocks', 'futures'],
-      collapsed: false
-    },
-
-    {
-      type: 'category',
-      label: 'Deeper dive',
-      items: ['amm','oracles', 'profit', 'shortpremium'],
+      items: ['deus', 'dea' , 'timetoken' , 'dAssets', 'futures'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Interface',
-      items: ['swap', 'vaults', 'troubleshooting'],
+      items: ['shortpremium', 'swap', 'vaults', 'troubleshooting' , ],
       collapsed: false,
     },
 

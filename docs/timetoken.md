@@ -1,6 +1,6 @@
 ---
 id: timetoken
-title: Time token
+title: Time token (Reputation)
 ---
 
 The Time token shows your reputation based on how much time you gave DEUS by providing liquidity in the Vaults. As Deus ecosystem is about to enter it's most critical phase of launching the first decentralised synthetic exchange, we have to make sure we do everything in an extremely cautious manner to protect the safety of the entire project.

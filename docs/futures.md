@@ -1,6 +1,6 @@
 ---
 id: futures
-title: Futures (pre-IPOs)
+title: Futures (IPOs , SPAC, Futures)
 description: 'Trade Futures for IPOs and other announced financial instruments'
 ---
 

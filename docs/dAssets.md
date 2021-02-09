@@ -1,6 +1,6 @@
 ---
-id: stocks
-title: Registrars (wrapped stocks)
+id: dAssets
+title: dAssets (Synthetics)
 description: 'Deploy & trade stocks seamlessly in an Uniswap-like environment.'
 ---
 
