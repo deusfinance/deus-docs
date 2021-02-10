@@ -1,6 +1,6 @@
 ---
 id: futures
-title: Futures (IPOs , SPAC, Futures)
+title: Futures (IPOs, SPAC, Futures)
 description: 'Trade Futures for IPOs and other announced financial instruments'
 ---
 
@@ -12,15 +12,15 @@ A Future or IOU on DEUS Swap is a token issued on the Ethereum blockchain, repre
 
 ### How do Futures get traded on DEUS?
 
-- Step 1: The initial liquidity for a Future/IOU is minted in a Static Sale
-- Step 2: The Future/IOU is traded on a bonding curve based AMM
-- Step 3: The Future/IOU is converted to the wStock as the asset goes public.
+- Step 1: The initial liquidity for a Future/IOU is minted in a Static Sale.
+- Step 2: The Future is traded on a bonding curve based AMM.
+- Step 3: The Future is converted to the wStock as the asset goes public.
 
 ### FAQ:
 
-#### What is the static sale?
+#### What is the Static Sale?
 
-The static sale is the initial sale of liquidity to traders. The Future is bought with DEUS at a static price and a capped max amount. 
+The Static Sale is the initial sale of liquidity to traders. The Future is purchased with DEUS at a static price and a capped max amount. 
 
 #### How is the Future traded after the static sale?
 

@@ -5,7 +5,7 @@ description: 'Core DEUS finance team and representatives of the DAO'
 ---
 
 ### DEA can be seen as a Share of the Ecosystem, needed to earn Fees.
-#### There will be more and more Unique usecases created in the future for DEA.
+#### There will be more and more unique usecases created in the future for DEA.
 
 ---
 

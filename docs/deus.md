@@ -3,18 +3,18 @@ id: deus
 title: DEUS token (Value)
 description: 'Benefit from constant buybacks, and a less volatile setup'
 ---
-### DEUS can be seen as a Store of Value inside the Ecosystem. It's a proxy of the ethereum token.
+### DEUS can be seen as a Store of Value inside the Ecosystem. It's a proxy of the Ethereum token.
 #### This single unique feature distinguishes DEUS from the majority of coins. It enables the DEUS ecosystem itself to be more flexible and opens a world to unlimited possibilties.
 
 ---
 - DEUS has very deep liquidity, a 1000 ETH buy at 0.0040 ETH only has around 10% slippage.
-- The DEUS Token itself has NO usecase inside of the DEUS ecosystem other than being a stable backbone through its ETH Backing.
-- DEA is the Token that will inherit all USECases in the DEUS Ecosystem
+- The DEUS token itself has NO usecase inside of the DEUS ecosystem other than being a stable backbone through its ETH Backing.
+- DEA is the token that will inherit all usecases in the DEUS Ecosystem.
 - DEUS is backed by Ethereum: [Treasury1](https://etherscan.io/address/0xD77700fC3C78d1Cb3aCb1a9eAC891ff59bC7946D) & [Treasury2](https://etherscan.io/address/0xc2fB644cd18325C58889Cf8BB0573e4a8774BCD2)
 - Can be exchanged for Ethereum at any time on [DEUS Swap](https://app.deus.finance/swap). 
-- The liquidity mining event created a price bottom for DEUS at 0.0015ETH.
+- The liquidity mining event created a price bottom for DEUS at 0.0015 ETH.
 - DEUS supply is infinite and DEUS price moves along the bonding curve. The curve, thus, has no upper limit.
-- Buying on [DEUS Swap](https://app.deus.finance/swap) increases the supply. Higher supply means higher price. Buying on Uniswap is considered buying from a secondary market and does not increase the price/affect the bonding curve. 
+- Buying on [DEUS Swap](https://app.deus.finance/swap) increases the supply. A Higher supply means a higher price. Buying on Uniswap is considered buying from a secondary market and does not increase the price/affect the bonding curve. 
 
 ___
 

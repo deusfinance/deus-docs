@@ -14,7 +14,7 @@ DEUS finance is a DeFi protocol that enables users to use its oracles to input a
 
 ## How does DEUS work?
 
-Deus allows users to create [Registrars](registrar), virtual copies of assets or baskets of assets, pegged 1:1 to their real-world equivalents. Each Registrar is represented with its own ERC-20 token (wToken). It is as simple as going to the Conductor and choosing a price feed for the asset they wish to tokenize. Our oracles then provide live and infinite prices on demand. These prices are specific to you at time requested allowing traders to not be frontrun. Traders invest in Registrars through a platform called DEUS Swap, our decentralized exchange.
+Deus allows users to create [dAssets](dAssets), virtual copies of assets or baskets of assets, pegged 1:1 to their real-world equivalents. Each dAsset is represented with its own ERC-20 token. It is as simple as going to the Conductor and choosing a price feed for the asset they wish to tokenize. Our oracles then provide live and infinite prices on demand. These prices are specific to you at time requested allowing traders to not be frontrun. Traders invest in dAssets through a platform called DEUS Swap, our decentralized exchange.
 
 
 ## Why DEUS?
