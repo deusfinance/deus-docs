@@ -25,7 +25,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Interface',
-      items: ['shortpremium', 'swap', 'vaults', 'troubleshooting' , ],
+      items: ['shortpremium', 'swap', 'vaults','staking', 'troubleshooting' , ],
       collapsed: false,
     },
 

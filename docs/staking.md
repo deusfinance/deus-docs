@@ -3,19 +3,22 @@ id: staking
 title: Staking
 ---
 
-The DEUS Ecosystem rewards liquidity providers by allowing users to stake their sealed tokens(sTokens) or Balancer pool tokens (bpt). The users staking collect rewards from an arbitrage bot in the Balancer pools along with fees and losses of traders.
+DEUS Ecosystem rewards liquidity providers by allowing users to stake their sealed tokens (sTokens) or Balancer pool tokens (BPT). 
+If you decide to stake your tokens, you will collect rewards from an arbitrage bot in the Balancer pools, as well as trading fees and losses of traders.
+All staking rewards are currently paid out in DEA.
 
 ![](https://i.ibb.co/Y24KWF7/stake.png)
 
-## What is the main difference between the single and Balancer pool?
+## What are the main differences between Single and Balancer pools?
 
-[single pool](https://app.deus.finance/staking/single) (sDEUS, sDEA, Time token):
-- No risks of impermanent loss but less rewards.
-- Simple as taking [sTokens](vaults) or [Time tokens](timetoken) and pressing "Stake Here".
+[Single pool](https://app.deus.finance/staking/single) (sDEUS, sDEA, Time token):
+- No risks of impermanent loss but lesser rewards
+- As simple as taking [sTokens](vaults) or [Time tokens](timetoken) and pressing "Stake Here"
 
 [Balancer pool](https://app.deus.finance/staking/liquidity):
-- Some risks of impermanent loss but much higher rewards.
-- Can provide the multiple different assets for the least slippage or enter through the single asset with some slippage, but easier process.
+- Potential risk of impermanent loss but greater rewards
+- More gas fees to enter the pool
+- User has to provide multiple assets for the least slippage or enter through single asset with slippage
 
 [Joining multi-asset Balancer pool](https://www.youtube.com/watch?v=bAYsrH_9OeQ)
 
@@ -26,20 +29,20 @@ The DEUS Ecosystem rewards liquidity providers by allowing users to stake their 
 ### FAQ:
 
 #### How often do I get rewarded for staking and how often can I collect those rewards?
-Users get awarded rewards every 15 seconds and may collect at any time.
+Users receive rewards every 15 seconds and may collect at any time.
 
-#### Are rewards constant APYs?
-No, rewards may vary and APY's can change constantly depending on a variety of factors such as: users in pool, trading volume and trader losses.
+#### Are rewards constant APY?
+No, rewards may vary and APY's can change at any time, depending on a variety of factors such as: amount of users in pool, daily trading volume and trader losses.
 
 #### Are there any fees associated with collecting rewards?
-There are no fees imposed by the DEUS ecosystem for collecting rewards, but there are gas fees charged by the Ethereum ecosystem and these vary by network congestion.
+There are no fees for collecting rewards imposed by the DEUS ecosystem, but there are gas fees charged by the Ethereum ecosystem and these vary by network congestion.
 
-#### Do I need to stake? 
-No, staking is not necesary, but highly recommended as that's the only way to collect rewards from the ecosystem.
+#### Should I stake? 
+Staking is not necessary, but it is highly recommended as it's the only way to collect rewards from the ecosystem.
 
 #### Can I unstake anytime?
-Yes, users may unstake at any time without any penalties or fees, other than those of Ethereum transaction gas fees. 
+Yes, users may unstake at any time without any penalties or fees, other than Ethereum transaction gas fees.
 
-#### I was previously staking in the old pools before vaults. Did I lose my tokens or rewards?
+#### I was previously staking in the old pools before vaults, did I lose my tokens or rewards?
 No, users may collect tokens and rewards from the old pools [HERE](https://app.deus.finance/staking/old).
 
