@@ -4,7 +4,7 @@ title: dAssets (Synthetics)
 description: 'Deploy & trade stocks seamlessly in an Uniswap-like environment.'
 ---
 
-- dAssets are wrapped stocks, commodities, or other traditional financial assests.
+- dAssets are "Synchronized Perpetuals" which can be stocks, commodities, or other traditional financial assests.
 - They are pegged 1:1 to their underlying asset via smart contracts relying on oracle-provided data.
 - Prices are updated in real-time through stock exchange APIs.
 - There is a 1% spread applied when buying & selling that is paid to liquidity providers.
