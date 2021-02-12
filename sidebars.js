@@ -21,11 +21,17 @@ module.exports = {
       items: ['deus', 'dea' , 'timetoken' , 'dAssets', 'futures'],
       collapsed: false
     },
+    {
+      type: 'category',
+      label: 'Technical Explanations',
+      items: ['shortpremium', 'vaults', 'oracles'],
+      collapsed: false
+    },
 
     {
       type: 'category',
-      label: 'Interface',
-      items: ['shortpremium', 'swap', 'vaults','staking', 'troubleshooting' , ],
+      label: 'Tutorials',
+      items: [ 'swap',  'troubleshooting'  ],
       collapsed: false,
     },
 

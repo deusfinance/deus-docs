@@ -1,13 +1,12 @@
 ---
 id: shortpremium
-title: Short price calculations
+title: How is the Short price calculated?
 description: What is the Short Premium?
 
 ---
 
 
 
-## What is Short Premium?
 
 On Deus Finance Layer 1, all of the Registrars are tokenized when “conducted” by a conductor (can be the Deus DAO or any individual). <br/>
 
