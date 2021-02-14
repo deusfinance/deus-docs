@@ -24,7 +24,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Technical Explanations',
-      items: ['shortpremium', 'vaults', 'oracles'],
+      items: ['shortpremium', 'vaults', 'oracles', 'amm'],
       collapsed: false
     },
 
