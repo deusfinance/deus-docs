@@ -44,5 +44,10 @@ Staking is not necessary, but it is highly recommended as it's the only way to c
 Yes, users may unstake at any time without any penalties or fees, other than Ethereum transaction gas fees.
 
 #### I was previously staking in the old pools before vaults, did I lose my tokens or rewards?
-No, users may collect tokens and rewards from the old pools [HERE](https://app.deus.finance/staking/old).
+No, users may collect tokens and rewards from the old pools [HERE](https://app.deus.finance/staking/old).#
 
+#### I saw there was a percentge of my Claim going to the DEUS DAO?
+Yes this is the DAO Development Contribution, that was implemented into the Staking Contracts from launch to support the Development, we also changed it from being directly claimable on the Contract to being send in the TX.
+Currently those rewards are flowing Back into the contracts until we enabled the tradingFees + transferFees.
+
+From the DEUS DAO with <3
