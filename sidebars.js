@@ -24,14 +24,14 @@ module.exports = {
     {
       type: 'category',
       label: 'Technical Explanations',
-      items: ['shortpremium', 'vaults', 'oracles', 'amm'],
+      items: ['shortpremium', 'vaults', 'oracles', 'amm', 'staking'],
       collapsed: false
     },
 
     {
       type: 'category',
       label: 'Tutorials',
-      items: [ 'swap',  'troubleshooting'  ],
+      items: [ 'swap'],
       collapsed: false,
     },
 

@@ -4,16 +4,13 @@ title: Roadmap
 description: 'Timeline of the mportant milestones and updates'
 ---
 
-### February:
-
-- Develop hard cap engine for stocks
-- Road to Mainnet: Add the S&P 500 data feed from finnhub.io to the Conductor. We plan to have around 500² different possible asset combinations on DEUS Swap. Additionally, the top 100 crypto assets will also be added. So, users will be able to long BTC and short bank stocks :-)
-- Further decentralise Oracles 
 
 ## March:
 
-- Complete layer 2 solution to resolve the ever increasing issue of Gas costs by implementing fee free trading
 
+- Road to L2-Mainnet: Add the S&P 500 data feed from finnhub.io to the Conductor. We plan to have around 500² different possible asset combinations on DEUS Swap. Additionally, the top 100 crypto assets will also be added. So, users will be able to long BTC and short bank stocks :-)
+- Complete layer 2 solution to resolve the ever increasing issue of Gas costs by implementing fee free trading
+- Further decentralise Oracles 
 
 ### After launch in no particular order:
 

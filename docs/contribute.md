@@ -1,6 +1,6 @@
 ---
 id: contribute
-title: Contribute
+title: How to Contribute
 description: 'How to contribute to this repo'
 ---
 

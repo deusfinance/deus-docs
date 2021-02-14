@@ -24,7 +24,7 @@ No real “shutting down” is feasible either. Once the contracts are up and ru
 DEUS is designed for stable incremental growth. That’s the reason we use the bonding curve and test our models thoroughly. We believe that steady growth outmatches any short term pump. And after all, maybe the real lambo is the friends we made along the way.
 
 #### How do I buy DEUS?/How do I lock my tokens in the Vaults?
-We have gathered all frequent questions related to using the system in a [separate section](troubleshooting.md).
+We have gathered all frequent questions related to using the system in a [separate section](old_troubleshooting.md).
 
 #### Aren’t FTX doing stonks on crypto already?
 Projects like FTX, Etoro, Robinhood or any other centralized broker entities are totally different. In fact, they have been around for years if not decades; there is nothing innovative about them. They don’t have anything in common with the decentralized versions DEUS or SNX are representing.
