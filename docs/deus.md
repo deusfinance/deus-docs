@@ -8,8 +8,8 @@ description: 'Benefit from constant buybacks, and a less volatile setup'
 
 ---
 - DEUS has very deep liquidity, a 1000 ETH buy at 0.0040 ETH only has around 10% slippage.
-- The DEUS token itself has NO usecase inside of the DEUS ecosystem other than being a stable backbone through its ETH Backing.
-- DEA is the token that will inherit all usecases in the DEUS Ecosystem.
+- The DEUS token itself has currently no direct usecase inside of the DEUS ecosystem other than being a stable backbone through its ETH Backing.
+- DEA is the token that will inherit most of the direct use-cases in the DEUS Ecosystem.
 - DEUS is backed by Ethereum: [Treasury1](https://etherscan.io/address/0xD77700fC3C78d1Cb3aCb1a9eAC891ff59bC7946D) & [Treasury2](https://etherscan.io/address/0xc2fB644cd18325C58889Cf8BB0573e4a8774BCD2)
 - Can be exchanged for Ethereum at any time on [DEUS Swap](https://app.deus.finance/swap). 
 - The liquidity mining event created a price bottom for DEUS at 0.0015 ETH.
@@ -18,6 +18,15 @@ description: 'Benefit from constant buybacks, and a less volatile setup'
 
 ___
 
+#### Examples for DEUS unique propositions and use cases
+
+The ethereum that is used to Back the DEUS, can eventually be used for multiple things:
+
+-> yield farm on other protocols <br/>
+-> back the system in times of liquidity shortages. <br/>
+-> eventually deus can replace the vault system completly.<br/>
+
+And many many more unique usecases can eventually  be created.
 
 #### For example:
 Currently at 1,644,162 DEUS in circulation the price is at 0.0025 ETH.
