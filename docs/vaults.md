@@ -10,7 +10,7 @@ The vaults are essential to the ecosystem, because without their collateral ther
 
 ## How do I use the vaults?
 
-To interact with the vaults users should first decide which asset/s they would like to seal and plan their funds accordingly ([Balancer Pool](https://pools.balancer.exchange/#/pool/0x1dc2948b6db34e38291090b825518c1e8346938b/)). When users lock their tokens, they receive sTokens ([sDeus,sDea, and/or sUni-LP](https://https://app.deus.finance/vaults)) and [Time tokens](timetoken) in return. After they receive sTokens, users can then stake them to earn rewards from fees and losses by traders. In addition, users can also stake their Time tokens to accrue governance/voting power in the DAO.
+To interact with the vaults users should first decide which asset/s they would like to seal and plan their funds accordingly ([Balancer Pool](https://pools.balancer.exchange/#/pool/0x1dc2948b6db34e38291090b825518c1e8346938b/)). When users lock their tokens, they receive sTokens ([sDeus,sDea, and/or sUni-LP](https://app.deus.finance/vaults)) and [Time tokens](timetoken) in return. After they receive sTokens, users can then stake them to earn rewards from fees and losses by traders. In addition, users can also stake their Time tokens to accrue governance/voting power in the DAO.
 ##### Keep in mind that collateral provided cannot be withdrawn until the end of the time-lock period.
 
 ## What is the time-lock period?
