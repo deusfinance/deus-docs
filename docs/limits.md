@@ -6,10 +6,11 @@ description: What is the Synchronizer capacity?
 
 
 
-The DEUS System is currently still in the Trial Phase. <br/>
+####The DEUS Synchronizer is currently still in the Trial Phase. <br/>
+We removed the Time restrictions, but we are still over collateralized
 Currently expressed at a 1300% over collateral rate. <br/>
-The System will be observed & monitored and after 4 weeks, cap will be lowered. <br/>
-And then again reviewed and lowered.
+The System will be observed & monitored, and after 4 weeks, the capacity increases. <br/>
+And then again reviewed and increased.
 
 
 
