@@ -31,7 +31,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Tutorials',
-      items: [ 'swap'],
+      items: [ 'swap', 'synchronizer'],
       collapsed: false,
     },
 
