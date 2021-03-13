@@ -38,8 +38,17 @@ Deus allows users to create [dAssets](dAssets), virtual copies of assets or bask
 
 [DEUS](deus.md) – A share in the Ecosystem. Benefits from constant buybacks (less volatility).
 
+Token Contract:
+```
+0x3b62f3820e0b035cc4ad602dece6d796bc325325
+```
+
 [DEA](dea) – A liquidity pair in all farming pools, needed for max returns on trading fees. Low supply, high demand (higher volatility).
 
+Token Contract:
+```
+0x80ab141f324c3d6f2b18b030f1c4e95d4d658778
+```
 
 ## Where to buy? 
 We do not advise users to buy from Uniswap. High slippage may occur and trading on Uniswap will not affect the bonding curve of the DEUS Swap Market Maker. Instead, we encourage you to buy DEUS directly through [DEUS Swap](https://app.deus.finance/swap) to empower and support the DEUS ecosystem. 

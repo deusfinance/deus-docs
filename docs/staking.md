@@ -26,6 +26,10 @@ All staking rewards are currently paid out in DEA.
 
 ---
 
+##### While staking is a good way to earn passive income, liquidity providers must exercise due diligence before locking their tokens in the vaults. [What are the risks?](https://wiki.deus.finance/docs/vaults#what-are-the-risks)
+
+---
+
 ### FAQ:
 
 #### How often do I get rewarded for staking and how often can I collect those rewards?
@@ -44,7 +48,7 @@ Staking is not necessary, but it is highly recommended as it's the only way to c
 Yes, users may unstake at any time without any penalties or fees, other than Ethereum transaction gas fees.
 
 #### I was previously staking in the old pools before vaults, did I lose my tokens or rewards?
-No, users may collect tokens and rewards from the old pools [HERE](https://app.deus.finance/staking/old).#
+No, users may collect tokens and rewards from the old pools [HERE](https://app.deus.finance/staking/old).
 
 #### I saw there was a percentge of my Claim going to the DEUS DAO?
 Yes this is the DAO Development Contribution, that was implemented into the Staking Contracts from launch to support the Development, we also changed it from being directly claimable on the Contract to being send in the TX.
