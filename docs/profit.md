@@ -16,7 +16,7 @@ Now, at the beginning, where there is a disbalance of traders or more are just p
 The overall collateral bigger picture: <br/>
 (((((((Longs / Shorts ) -  Funding rate (V2) ) Synchronizer Balance) Vaults) DEA Insurance Fund ) DEUS ETH Treasury)
 
-1. Longs pay Shorts, <br>
+1. Longs pay Shorts, <br/>
 2. A funding rate gets applied on an hourly basis (will be implemented in DEUS V2) Funding rates explainer: https://www.binance.com/en/support/faq/360033525031
 3. initial / short term liquidity shortages are backed up by the synchronizer balance itself, ETH MAINNET (0x7a27a7BF25d64FAa090404F94606c580ce8E1D37). <br/>
 4. Vaults as explained in the next Section
