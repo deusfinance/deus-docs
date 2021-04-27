@@ -36,7 +36,12 @@ Deus allows users to create [dAssets](dAssets), virtual copies of assets or bask
 
 ## Why two tokens?
 
-[DEUS](deus.md) – A share in the Ecosystem. Benefits from constant buybacks (less volatility).
+[DEUS](deus.md) – DEUS – Store of value and backed by ETH, a share in the Ecosystem. Benefits from buybacks of the route: <br/> 
+Trading Profits flow into > DEUS and then into > DEA. <br/>
+DEUS has a limited downside, at 0.0017 ETH but also limited upside.<br/>
+````
+1000 ETH buy only move the price for 10%.
+````
 
 Token Contract:
 ```

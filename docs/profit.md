@@ -20,7 +20,7 @@ The overall collateral bigger picture: <br/>
 2. A funding rate gets applied on an hourly basis (will be implemented in DEUS V2) Funding rates explainer: https://www.binance.com/en/support/faq/360033525031
 3. initial / short term liquidity shortages are backed up by the synchronizer balance itself, ETH MAINNET (0x7a27a7BF25d64FAa090404F94606c580ce8E1D37). <br/>
 4. Vaults as explained in the next Section
-5. DEA Insurance Fund covers Black Swan Events (currently at 18 Million Dollar) ETH Mainnet (0xd9775d818fc23e07ac4b8efd4c58972f7c59bc0f)
+5. DEA Insurance Fund covers Black Swan Events (currently at 18 Million Dollar) ETH Mainnet 0xd9775d818fc23e07ac4b8efd4c58972f7c59bc0f[https://etherscan.io/address/0xd9775d818fc23e07ac4b8efd4c58972f7c59bc0f]
 6. DEUS ETH Treasury, covers the whole system as a last resort.
 
 
@@ -29,8 +29,8 @@ The overall collateral bigger picture: <br/>
 DEUS V1 is mainly based on over-collateralization, meaning Liquidity Providers or so-called "Vault Stakers" are locking, <br/>
 as collateral approved assets into timelock contracts the so-called "Vaults." <br/>
 
-####To the current date: April 2021 there are $37,729,725 locked as collateral for stocktrades.
-can be verified here:
+#### Date: April 2021 $37,729,725 locked as collateral.
+can be verified here in real-time:
 https://app.deus.finance/tvl.json <br/>
 Dea    0x1591Da306e9726CF8a60BfF1CE96d7714D7b24cd <br/>
 Deus   0xF8bcAF889F60E3d277EA0139e75047a0301D3307 <br/>
