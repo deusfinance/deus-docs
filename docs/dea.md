@@ -4,8 +4,8 @@ title: DEA token (Utility)
 description: 'Core DEUS finance team and representatives of the DAO'
 ---
 
-### DEA can be seen as a Share of the Ecosystem, needed to earn Fees.
-#### There will be more and more unique usecases created in the future for DEA.
+### DEA can be seen as a utility of the Ecosystem, can be used to decrease trading fees, get access to special services or as a baseliquidity pair.
+#### There will be more and more unique utilities created in the future for DEA.
 
 ---
 
