@@ -1,5 +1,5 @@
 ---
-id: stakeandyield
-title: stake-and-yield
+id: stake-and-yield
+title: Stake & Yield
 ---
-#### Stake & Yield explainer
+#### Explainer...coming soon
