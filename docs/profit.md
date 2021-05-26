@@ -31,13 +31,20 @@ as collateral approved assets into timelock contracts the so-called "Vaults." <b
 
 #### Date: April 2021 $37,729,725 locked as collateral.
 can be verified here in real-time:
-https://app.deus.finance/tvl.json <br/>
-Dea    0x1591Da306e9726CF8a60BfF1CE96d7714D7b24cd <br/>
-Deus   0xF8bcAF889F60E3d277EA0139e75047a0301D3307 <br/>
-Uni-DE 0xc8c91801Bed699598b5483F2ad55f89eBd35157F <br/>
-Uni-DU 0x4D01703442509233eFa9879E638278a59b4A5EBB <br/>
-Uni-DD 0xEC7269Ebb7D219C905c28E3fD5Cc35F30dfB870b <br/>
 
+https://app.deus.finance/tvl.json <br/>
+````
+
+Dea    0x1591Da306e9726CF8a60BfF1CE96d7714D7b24cd
+
+Deus   0xF8bcAF889F60E3d277EA0139e75047a0301D3307 
+
+Uni-DE 0xc8c91801Bed699598b5483F2ad55f89eBd35157F 
+
+Uni-DU 0x4D01703442509233eFa9879E638278a59b4A5EBB 
+
+Uni-DD 0xEC7269Ebb7D219C905c28E3fD5Cc35F30dfB870b 
+````
 Then there is the Synchronizer Cap, which is currently set to 1,000,000 DAI on xDAI & 500,000 DAI on ETH Mainnet, so a total of 1,500,000 DAI.
 The over-collateralization rate is, therefore, currently set to 1:25.
 
