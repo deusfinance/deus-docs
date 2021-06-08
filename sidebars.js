@@ -24,7 +24,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Technical Explanations',
-      items: ['shortpremium', 'vaults', 'oracles', 'amm', 'staking', 'limits', 'profit', 'stake-and-yield'],
+      items: ['shortpremium', 'vaults', 'oracles', 'amm', 'limits', 'profit', 'stake-and-yield'],
       collapsed: false
     },
 

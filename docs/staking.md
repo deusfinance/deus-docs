@@ -1,4 +1,4 @@
----
+<!-- ---
 id: staking
 title: Staking
 ---
@@ -54,4 +54,4 @@ No, users may collect tokens and rewards from the old pools [HERE](https://app.d
 Yes this is the DAO Development Contribution, that was implemented into the Staking Contracts from launch to support the Development, we also changed it from being directly claimable on the Contract to being send in the TX.
 Currently those rewards are flowing Back into the contracts until we enabled the tradingFees + transferFees.
 
-From the DEUS DAO with <3
+From the DEUS DAO with <3 -->
