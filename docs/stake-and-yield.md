@@ -2,7 +2,7 @@
 id: stake-and-yield
 title: Stake & Yield
 ---
-# **What is Stake and Yield?**
+## **What is Stake and Yield?**
 
 Stake And Yield is a newly developed reward system, whereby users are able to earn staking rewards and farm additional yield with the same liquidity.
 
@@ -25,7 +25,9 @@ When a user decides to exit the vaults, the Vault Exit process is initiated. Fro
 Currently, the Vault Exit process will takes 75 days. Ultimately, users will be able to exit the DEUS Vaults in 14 days but we will adjust the timings organically as the system develops.
 The Vault Exit system currently only supports single token Vaults (sDEA/sDEUS). The next iteration will enable users to convert their BPT tokens to sDEA, to allow anyone to exit the vaults (BPT->sDEA->DEA).
 
-** Try the new Stake and Yield System [HERE](https://app.deus.finance/stake-and-yield)
+** Try the new Stake and Yield System [HERE](https://app.deus.finance/stake-and-yield)**
+
+![](https://i.ibb.co/Ks0G7GW/SY-wiki.png)
 
 
 ##### While staking is a good way to earn passive income, liquidity providers must exercise due diligence before locking their tokens in the vaults. [What are the risks?](https://wiki.deus.finance/docs/vaults#what-are-the-risks)
