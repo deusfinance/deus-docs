@@ -104,4 +104,4 @@ If you want to exit the vaults and convert your assets back to DEA, you still ha
 
 #### **What is the difference between Unfreeze and Enable Vault Exit buttons?**
 
-Enable Vault Exit initiates the process through which your stake gets progressively smaller and converted to DEA day by day. Unfreeze button extracts your assets away from the Yield function of the reward system. 24 hours later you are able to withdraw your staked assets, such as sDEA, sDEUS, or liquidity tokens, back to your wallet.
+Enable Vault Exit initiates the process through which your stake gets progressively smaller and converted to DEA day by day. Unfreeze button extracts your assets away from the Yield function of the reward system. 
