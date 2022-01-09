@@ -1,3 +1,4 @@
+# DEPRICATED
 ## DEUS DOCS Documentation
 
 #### Notice
