@@ -10,16 +10,16 @@ import GithubCard from '../components/GithubCard'
 import HowCard from '../components/HowCard'
 import { repos } from '../data/github'
 
-const swapsVSstonks = `
-const favorite_stonk = await centralized_database.findOne({
+const swapsVSstocks = `
+const favorite_stock = await centralized_database.findOne({
   exchange: 'NASDAQ',
-  stonk: 'TESLA, Inc.',
+  stock: 'TESLA, Inc.',
   ticker: 'TSLA'
 }).select()
 
 const mint = await DEUS_SWAP.mint({
   origin: 'NASDAQ',
-  stonk: favorite_stonk,
+  stock: favorite_stock,
   isERC20: true,
   decimals: 18,
   isTradeable: true,
@@ -72,7 +72,7 @@ function Home() {
               <div className="col col--7">
                 <CustomCodeBlock
                   header="Trading stocks on Uniswap and other decentralized exchanges is now a reality."
-                  js={swapsVSstonks}
+                  js={swapsVSstocks}
                 />
               </div>
             </div>

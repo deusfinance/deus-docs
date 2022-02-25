@@ -26,7 +26,7 @@ DEUS is designed for stable incremental growth. That’s the reason we use the b
 #### How do I buy DEUS?/How do I lock my tokens in the Vaults?
 We have gathered all frequent questions related to using the system in a [separate section](old_troubleshooting.md).
 
-#### Aren’t FTX doing stonks on crypto already?
+#### Aren’t FTX doing stocks on crypto already?
 Projects like FTX, Etoro, Robinhood or any other centralized broker entities are totally different. In fact, they have been around for years if not decades; there is nothing innovative about them. They don’t have anything in common with the decentralized versions DEUS or SNX are representing.
 
 The closest project to DEUS.finance is cap.finance. From what is currently known about the project their mirrored asset tokens are not moveable on-chain. Other significant differences remain to be seen.
